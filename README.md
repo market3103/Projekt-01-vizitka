@@ -16,6 +16,6 @@ TO NEJDŮLEŽITĚJŠÍ:
 - prostě použij vše, co zatím umíš, a zkus to použít tak, aby stránka byla zajímavá
 
 Jako inspiraci pro základní úpravy si můžeš projít stránku Webdesign in 4 Minutes:
-https://jgthms.com/web-design-in-4-minutes/
+
 
 Případně se inspiruj stránkou "Adéla na cestách" z úvodního HTML video kurzu, ale ne že do ní jen dopíšeš vlastní text :) To samozřejmě poznáme. Stránku určitě nějak změn a přidej i nějakou vlastní kreativitu.
